@@ -1,5 +1,5 @@
 # cloudwatts
-designed this web page using HTML, CSS and JavaScript by using the weather API into the website to display current weather details of a specific city. this is responsive and animated design with css
+designed this web page using HTML, CSS and JavaScript by using the weather API into the website to display current weather details of a specific city. this is responsive and animated design with css.
 
 ## Getting Started
 
