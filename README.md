@@ -1,25 +1,21 @@
 # cloudwatts
+ 🔑 Top Features
 
-🔑 Top Features
-City-Based Weather Search
+- **City-Based Weather Search**  
+  Users can search for current weather in any city worldwide.
 
-Users can search for current weather in any city worldwide.
+- **Live Location Weather**  
+  Automatically fetches weather based on the user's real-time latitude and longitude using browser geolocation.
 
-Live Location Weather
+- **Real-Time API Integration**  
+  Uses a weather API to display up-to-date temperature, humidity, wind speed, and conditions.
 
-Automatically fetches weather based on the user's real-time latitude and longitude using browser geolocation.
+- **Responsive & Animated UI**  
+  Mobile-friendly design with smooth CSS animations for a clean, interactive experience.
 
-Real-Time API Integration
+- **Error & Permission Handling**  
+  Handles invalid input and denied location access gracefully with user-friendly messages.
 
-Uses a weather API to display up-to-date temperature, humidity, wind speed, and conditions.
-
-Responsive & Animated UI
-
-Mobile-friendly design with smooth CSS animations for a clean, interactive experience.
-
-Error & Permission Handling
-
-Handles invalid input and denied location access gracefully with user-friendly messages.
 
 ## Getting Started
 
